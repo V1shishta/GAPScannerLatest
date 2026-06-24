@@ -35,14 +35,14 @@ GAP_STORE_FILE  = "gap_store.json"
 MCAP_CACHE_FILE = "mcap_cache.json"
 
 # ── Settings (can be overridden via environment variables) ────────────
-MIN_MARKET_CAP_CR = float(os.environ.get("MIN_MARKET_CAP_CR", 1000))
-MIN_GAP_PERCENT    = float(os.environ.get("MIN_GAP_PERCENT", 0.01))
-VOLUME_MULTIPLIER  = float(os.environ.get("VOLUME_MULTIPLIER", 1.5))
-VOLUME_AVG_DAYS    = int(os.environ.get("VOLUME_AVG_DAYS", 20))
-LOOKBACK_YEARS     = int(os.environ.get("LOOKBACK_YEARS", 2))
+MIN_MARKET_CAP_CR = float(os.environ.get("MIN_MARKET_CAP_CR") or 1000)
+MIN_GAP_PERCENT    = float(os.environ.get("MIN_GAP_PERCENT") or 0.01)
+VOLUME_MULTIPLIER  = float(os.environ.get("VOLUME_MULTIPLIER") or 1.5)
+VOLUME_AVG_DAYS    = int(os.environ.get("VOLUME_AVG_DAYS") or 20)
+LOOKBACK_YEARS     = int(os.environ.get("LOOKBACK_YEARS") or 2)
 
-TELEGRAM_BOT_TOKEN = os.environ.get("TELEGRAM_BOT_TOKEN", "")
-TELEGRAM_CHAT_ID   = os.environ.get("TELEGRAM_CHAT_ID", "")
+TELEGRAM_BOT_TOKEN = os.environ.get("TELEGRAM_BOT_TOKEN") or ""
+TELEGRAM_CHAT_ID   = os.environ.get("TELEGRAM_CHAT_ID") or ""
 
 
 # ============================================================
