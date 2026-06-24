@@ -1,0 +1,45 @@
+name: Hourly Scan
+
+# Runs at :20 past every hour during market hours.
+# Cron times are in UTC. IST = UTC + 5:30.
+# 3:50, 4:50, 5:50, 6:50, 7:50, 8:50, 9:50 UTC
+#   = 9:20, 10:20, 11:20, 12:20, 1:20, 2:20, 3:20 PM IST
+on:
+  schedule:
+    - cron: '50 3,4,5,6,7,8,9 * * 1-5'   # Mon-Fri, hourly during market hours
+  workflow_dispatch: {}                   # Lets you trigger manually for testing
+
+permissions:
+  contents: write
+
+jobs:
+  hourly-scan:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Run hourly scan
+        env:
+          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+          TELEGRAM_CHAT_ID:   ${{ secrets.TELEGRAM_CHAT_ID }}
+          MIN_GAP_PERCENT:    ${{ vars.MIN_GAP_PERCENT }}
+          VOLUME_MULTIPLIER:  ${{ vars.VOLUME_MULTIPLIER }}
+        run: python hourly_scan.py
+
+      - name: Commit updated data
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git add gap_store.json
+          git diff --staged --quiet || git commit -m "Hourly scan update [skip ci]"
+          git push
