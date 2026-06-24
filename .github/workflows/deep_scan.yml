@@ -1,0 +1,45 @@
+name: Deep Scan (Daily)
+
+# Runs once a day before market open to find all open gaps.
+# Cron times are in UTC. IST = UTC + 5:30.
+# 2:30 UTC = 8:00 AM IST (well before 9:15 AM market open)
+on:
+  schedule:
+    - cron: '30 2 * * 1-5'   # Mon-Fri, 8:00 AM IST
+  workflow_dispatch: {}       # Lets you trigger manually from the Actions tab
+
+permissions:
+  contents: write
+
+jobs:
+  deep-scan:
+    runs-on: ubuntu-latest
+    timeout-minutes: 50
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Run deep scan
+        env:
+          MIN_MARKET_CAP_CR: ${{ vars.MIN_MARKET_CAP_CR }}
+          MIN_GAP_PERCENT:   ${{ vars.MIN_GAP_PERCENT }}
+          VOLUME_MULTIPLIER: ${{ vars.VOLUME_MULTIPLIER }}
+          VOLUME_AVG_DAYS:   ${{ vars.VOLUME_AVG_DAYS }}
+          LOOKBACK_YEARS:    ${{ vars.LOOKBACK_YEARS }}
+        run: python deep_scan.py
+
+      - name: Commit updated data
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git add gap_store.json mcap_cache.json 2>/dev/null || true
+          git diff --staged --quiet || git commit -m "Deep scan update [skip ci]"
+          git push
