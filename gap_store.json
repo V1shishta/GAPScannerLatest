@@ -1,6 +1,8 @@
 {
   "scan_date": "2026-09-28",
-  "alerted": [],
+  "alerted": [
+    "DELTACORP|2026-05-29"
+  ],
   "stocks": {
     "ABFRL": {
       "avg_volume": 4341035,
@@ -20,7 +22,13 @@
           "gap_size_pct": 1.32
         }
       ],
-      "latest_candle": null
+      "latest_candle": {
+        "date": "2026-09-28",
+        "high": 49.599998474121094,
+        "low": 47.25,
+        "close": 47.59000015258789,
+        "volume": 3612160
+      }
     },
     "ADFFOODS": {
       "avg_volume": 99539,
@@ -33,7 +41,13 @@
           "gap_size_pct": 1.4
         }
       ],
-      "latest_candle": null
+      "latest_candle": {
+        "date": "2026-09-28",
+        "high": 270.0,
+        "low": 265.29998779296875,
+        "close": 266.6000061035156,
+        "volume": 33736
+      }
     },
     "ADVENZYMES": {
       "avg_volume": 207737,
@@ -46,7 +60,13 @@
           "gap_size_pct": 2.5
         }
       ],
-      "latest_candle": null
+      "latest_candle": {
+        "date": "2026-09-28",
+        "high": 291.20001220703125,
+        "low": 282.0,
+        "close": 283.1499938964844,
+        "volume": 177004
+      }
     },
     "AGL": {
       "avg_volume": 5135507,
@@ -80,7 +100,13 @@
           "gap_size_pct": 4.96
         }
       ],
-      "latest_candle": null
+      "latest_candle": {
+        "date": "2026-09-28",
+        "high": 13.6899995803833,
+        "low": 13.119999885559082,
+        "close": 13.210000038146973,
+        "volume": 1258623
+      }
     },
     "AHLUCONT": {
       "avg_volume": 69316,
@@ -93,7 +119,13 @@
           "gap_size_pct": 1.25
         }
       ],
-      "latest_candle": null
+      "latest_candle": {
+        "date": "2026-09-28",
+        "high": 588.75,
+        "low": 567.0,
+        "close": 572.4000244140625,
+        "volume": 27918
+      }
     },
     "AIIL": {
       "avg_volume": 611710,
@@ -106,7 +138,13 @@
           "gap_size_pct": 1.17
         }
       ],
-      "latest_candle": null
+      "latest_candle": {
+        "date": "2026-09-28",
+        "high": 556.9500122070312,
+        "low": 541.5999755859375,
+        "close": 548.25,
+        "volume": 112054
+      }
     },
     "AMBUJACEM": {
       "avg_volume": 1214473,
@@ -119,7 +157,13 @@
           "gap_size_pct": 1.12
         }
       ],
-      "latest_candle": null
+      "latest_candle": {
+        "date": "2026-09-28",
+        "high": 383.79998779296875,
+        "low": 374.0,
+        "close": 374.3500061035156,
+        "volume": 1653279
+      }
     },
     "ASALCBR": {
       "avg_volume": 26613,
@@ -132,7 +176,13 @@
           "gap_size_pct": 6.52
         }
       ],
-      "latest_candle": null
+      "latest_candle": {
+        "date": "2026-09-28",
+        "high": 667.0,
+        "low": 638.0,
+        "close": 641.5499877929688,
+        "volume": 42494
+      }
     },
     "ASHAPURMIN": {
       "avg_volume": 309648,
@@ -145,7 +195,13 @@
           "gap_size_pct": 5.77
         }
       ],
-      "latest_candle": null
+      "latest_candle": {
+        "date": "2026-09-28",
+        "high": 510.8999938964844,
+        "low": 500.04998779296875,
+        "close": 502.6000061035156,
+        "volume": 288565
+      }
     },
     "ASHOKA": {
       "avg_volume": 6007645,
@@ -158,7 +214,13 @@
           "gap_size_pct": 2.41
         }
       ],
-      "latest_candle": null
+      "latest_candle": {
+        "date": "2026-09-28",
+        "high": 112.77999877929688,
+        "low": 109.80000305175781,
+        "close": 110.16999816894531,
+        "volume": 537262
+      }
     },
     "AURIONPRO": {
       "avg_volume": 177721,
@@ -171,7 +233,13 @@
           "gap_size_pct": 2.33
         }
       ],
-      "latest_candle": null
+      "latest_candle": {
+        "date": "2026-09-28",
+        "high": 670.5499877929688,
+        "low": 638.5499877929688,
+        "close": 642.5,
+        "volume": 128037
+      }
     },
     "AWHCL": {
       "avg_volume": 444258,
@@ -184,7 +252,13 @@
           "gap_size_pct": 6.21
         }
       ],
-      "latest_candle": null
+      "latest_candle": {
+        "date": "2026-09-28",
+        "high": 378.04998779296875,
+        "low": 365.0,
+        "close": 367.6499938964844,
+        "volume": 78148
+      }
     },
     "AWL": {
       "avg_volume": 1756060,
@@ -197,7 +271,13 @@
           "gap_size_pct": 5.75
         }
       ],
-      "latest_candle": null
+      "latest_candle": {
+        "date": "2026-09-28",
+        "high": 184.0,
+        "low": 180.1999969482422,
+        "close": 180.66000366210938,
+        "volume": 684854
+      }
     },
     "AXISBANK": {
       "avg_volume": 4512176,
@@ -210,7 +290,13 @@
           "gap_size_pct": 1.11
         }
       ],
-      "latest_candle": null
+      "latest_candle": {
+        "date": "2026-09-28",
+        "high": 1217.800048828125,
+        "low": 1205.0,
+        "close": 1209.9000244140625,
+        "volume": 4771225
+      }
     },
     "BAJAJHCARE": {
       "avg_volume": 155946,
@@ -223,7 +309,13 @@
           "gap_size_pct": 3.07
         }
       ],
-      "latest_candle": null
+      "latest_candle": {
+        "date": "2026-09-28",
+        "high": 346.3500061035156,
+        "low": 335.0,
+        "close": 336.6000061035156,
+        "volume": 65707
+      }
     },
     "BAJAJHFL": {
       "avg_volume": 2776420,
@@ -236,7 +328,13 @@
           "gap_size_pct": 4.86
         }
       ],
-      "latest_candle": null
+      "latest_candle": {
+        "date": "2026-09-28",
+        "high": 83.13999938964844,
+        "low": 82.0,
+        "close": 82.5199966430664,
+        "volume": 2875406
+      }
     },
     "BAJFINANCE": {
       "avg_volume": 5734707,
@@ -249,7 +347,13 @@
           "gap_size_pct": 2.76
         }
       ],
-      "latest_candle": null
+      "latest_candle": {
+        "date": "2026-09-28",
+        "high": 992.2999877929688,
+        "low": 974.0,
+        "close": 985.0,
+        "volume": 7707294
+      }
     },
     "BALMLAWRIE": {
       "avg_volume": 139164,
@@ -262,7 +366,13 @@
           "gap_size_pct": 2.46
         }
       ],
-      "latest_candle": null
+      "latest_candle": {
+        "date": "2026-09-28",
+        "high": 164.7899932861328,
+        "low": 162.3000030517578,
+        "close": 162.47999572753906,
+        "volume": 52203
+      }
     },
     "BALUFORGE": {
       "avg_volume": 1135005,
@@ -275,7 +385,13 @@
           "gap_size_pct": 4.11
         }
       ],
-      "latest_candle": null
+      "latest_candle": {
+        "date": "2026-09-28",
+        "high": 507.04998779296875,
+        "low": 491.8999938964844,
+        "close": 495.1000061035156,
+        "volume": 359232
+      }
     },
     "BATAINDIA": {
       "avg_volume": 154487,
@@ -288,7 +404,13 @@
           "gap_size_pct": 1.81
         }
       ],
-      "latest_candle": null
+      "latest_candle": {
+        "date": "2026-09-28",
+        "high": 633.7000122070312,
+        "low": 621.0,
+        "close": 624.7000122070312,
+        "volume": 118577
+      }
     },
     "BCG": {
       "avg_volume": 10007190,
@@ -315,7 +437,13 @@
           "gap_size_pct": 5.03
         }
       ],
-      "latest_candle": null
+      "latest_candle": {
+        "date": "2026-09-28",
+        "high": 9.539999961853027,
+        "low": 9.3100004196167,
+        "close": 9.369999885559082,
+        "volume": 4016929
+      }
     },
     "BECTORFOOD": {
       "avg_volume": 1216861,
@@ -328,7 +456,13 @@
           "gap_size_pct": 1.03
         }
       ],
-      "latest_candle": null
+      "latest_candle": {
+        "date": "2026-09-28",
+        "high": 215.0,
+        "low": 210.39999389648438,
+        "close": 211.52000427246094,
+        "volume": 502107
+      }
     },
     "BLIL": {
       "avg_volume": 85771,
@@ -341,7 +475,13 @@
           "gap_size_pct": 1.63
         }
       ],
-      "latest_candle": null
+      "latest_candle": {
+        "date": "2026-09-28",
+        "high": 66.87999725341797,
+        "low": 65.4000015258789,
+        "close": 65.55999755859375,
+        "volume": 83265
+      }
     },
     "BLUEJET": {
       "avg_volume": 418438,
@@ -354,7 +494,13 @@
           "gap_size_pct": 2.73
         }
       ],
-      "latest_candle": null
+      "latest_candle": {
+        "date": "2026-09-28",
+        "high": 573.7000122070312,
+        "low": 554.5,
+        "close": 557.2999877929688,
+        "volume": 194372
+      }
     },
     "BPCL": {
       "avg_volume": 4619185,
@@ -367,7 +513,13 @@
           "gap_size_pct": 1.45
         }
       ],
-      "latest_candle": null
+      "latest_candle": {
+        "date": "2026-09-28",
+        "high": 308.5,
+        "low": 301.0,
+        "close": 302.25,
+        "volume": 2813192
+      }
     },
     "BSOFT": {
       "avg_volume": 1579928,
@@ -380,7 +532,13 @@
           "gap_size_pct": 3.26
         }
       ],
-      "latest_candle": null
+      "latest_candle": {
+        "date": "2026-09-28",
+        "high": 275.8999938964844,
+        "low": 270.0,
+        "close": 271.25,
+        "volume": 1022681
+      }
     },
     "CAMLINFINE": {
       "avg_volume": 719380,
@@ -400,7 +558,13 @@
           "gap_size_pct": 4.0
         }
       ],
-      "latest_candle": null
+      "latest_candle": {
+        "date": "2026-09-28",
+        "high": 97.95999908447266,
+        "low": 95.0999984741211,
+        "close": 95.4000015258789,
+        "volume": 435816
+      }
     },
     "CEINSYS": {
       "avg_volume": 64136,
@@ -413,7 +577,13 @@
           "gap_size_pct": 1.25
         }
       ],
-      "latest_candle": null
+      "latest_candle": {
+        "date": "2026-09-28",
+        "high": 694.4500122070312,
+        "low": 678.0,
+        "close": 685.1500244140625,
+        "volume": 41550
+      }
     },
     "CELLO": {
       "avg_volume": 308632,
@@ -426,7 +596,13 @@
           "gap_size_pct": 1.43
         }
       ],
-      "latest_candle": null
+      "latest_candle": {
+        "date": "2026-09-28",
+        "high": 340.3500061035156,
+        "low": 327.6499938964844,
+        "close": 332.6000061035156,
+        "volume": 232586
+      }
     },
     "CEMPRO": {
       "avg_volume": 246595,
@@ -439,7 +615,13 @@
           "gap_size_pct": 3.24
         }
       ],
-      "latest_candle": null
+      "latest_candle": {
+        "date": "2026-09-28",
+        "high": 1259.9000244140625,
+        "low": 1220.0,
+        "close": 1224.5,
+        "volume": 132371
+      }
     },
     "CENTRALBK": {
       "avg_volume": 7119276,
@@ -452,7 +634,13 @@
           "gap_size_pct": 1.88
         }
       ],
-      "latest_candle": null
+      "latest_candle": {
+        "date": "2026-09-28",
+        "high": 31.110000610351562,
+        "low": 30.510000228881836,
+        "close": 30.59000015258789,
+        "volume": 4227440
+      }
     },
     "CENTRUM": {
       "avg_volume": 201316,
@@ -465,7 +653,13 @@
           "gap_size_pct": 1.1
         }
       ],
-      "latest_candle": null
+      "latest_candle": {
+        "date": "2026-09-28",
+        "high": 21.239999771118164,
+        "low": 20.700000762939453,
+        "close": 20.850000381469727,
+        "volume": 179927
+      }
     },
     "CHOLAFIN": {
       "avg_volume": 1350346,
@@ -478,7 +672,13 @@
           "gap_size_pct": 2.66
         }
       ],
-      "latest_candle": null
+      "latest_candle": {
+        "date": "2026-09-28",
+        "high": 1660.4000244140625,
+        "low": 1620.4000244140625,
+        "close": 1634.199951171875,
+        "volume": 1194324
+      }
     },
     "CLEAN": {
       "avg_volume": 364753,
@@ -491,7 +691,13 @@
           "gap_size_pct": 2.6
         }
       ],
-      "latest_candle": null
+      "latest_candle": {
+        "date": "2026-09-28",
+        "high": 810.0,
+        "low": 778.0999755859375,
+        "close": 781.7000122070312,
+        "volume": 195319
+      }
     },
     "COHANCE": {
       "avg_volume": 1200412,
@@ -511,7 +717,13 @@
           "gap_size_pct": 1.53
         }
       ],
-      "latest_candle": null
+      "latest_candle": {
+        "date": "2026-09-28",
+        "high": 459.25,
+        "low": 445.0,
+        "close": 453.29998779296875,
+        "volume": 568862
+      }
     },
     "COLPAL": {
       "avg_volume": 457541,
@@ -524,7 +736,13 @@
           "gap_size_pct": 1.23
         }
       ],
-      "latest_candle": null
+      "latest_candle": {
+        "date": "2026-09-28",
+        "high": 1857.9000244140625,
+        "low": 1826.800048828125,
+        "close": 1845.9000244140625,
+        "volume": 427559
+      }
     },
     "CYIENT": {
       "avg_volume": 667355,
@@ -537,7 +755,13 @@
           "gap_size_pct": 4.3
         }
       ],
-      "latest_candle": null
+      "latest_candle": {
+        "date": "2026-09-28",
+        "high": 1099.0999755859375,
+        "low": 1064.300048828125,
+        "close": 1082.300048828125,
+        "volume": 246654
+      }
     },
     "DABUR": {
       "avg_volume": 2175510,
@@ -550,7 +774,13 @@
           "gap_size_pct": 2.96
         }
       ],
-      "latest_candle": null
+      "latest_candle": {
+        "date": "2026-09-28",
+        "high": 386.5,
+        "low": 381.8500061035156,
+        "close": 385.75,
+        "volume": 2851690
+      }
     },
     "DBREALTY": {
       "avg_volume": 1280424,
@@ -563,7 +793,13 @@
           "gap_size_pct": 9.75
         }
       ],
-      "latest_candle": null
+      "latest_candle": {
+        "date": "2026-09-28",
+        "high": 99.48999786376953,
+        "low": 95.08000183105469,
+        "close": 96.27999877929688,
+        "volume": 397875
+      }
     },
     "DELTACORP": {
       "avg_volume": 3543966,
@@ -576,7 +812,13 @@
           "gap_size_pct": 6.23
         }
       ],
-      "latest_candle": null
+      "latest_candle": {
+        "date": "2026-09-28",
+        "high": 81.0,
+        "low": 70.80000305175781,
+        "close": 72.19999694824219,
+        "volume": 13843661
+      }
     },
     "DEN": {
       "avg_volume": 265507,
@@ -589,7 +831,13 @@
           "gap_size_pct": 1.5
         }
       ],
-      "latest_candle": null
+      "latest_candle": {
+        "date": "2026-09-28",
+        "high": 26.520000457763672,
+        "low": 25.799999237060547,
+        "close": 26.0,
+        "volume": 297596
+      }
     },
     "DHANUKA": {
       "avg_volume": 20908,
@@ -602,7 +850,13 @@
           "gap_size_pct": 1.3
         }
       ],
-      "latest_candle": null
+      "latest_candle": {
+        "date": "2026-09-28",
+        "high": 968.9000244140625,
+        "low": 951.0,
+        "close": 954.4000244140625,
+        "volume": 29923
+      }
     },
     "EKC": {
       "avg_volume": 1367677,
@@ -615,7 +869,13 @@
           "gap_size_pct": 2.49
         }
       ],
-      "latest_candle": null
+      "latest_candle": {
+        "date": "2026-09-28",
+        "high": 110.83000183105469,
+        "low": 106.4000015258789,
+        "close": 107.02999877929688,
+        "volume": 230675
+      }
     },
     "EPACK": {
       "avg_volume": 368527,
@@ -635,7 +895,13 @@
           "gap_size_pct": 1.52
         }
       ],
-      "latest_candle": null
+      "latest_candle": {
+        "date": "2026-09-28",
+        "high": 184.25,
+        "low": 177.41000366210938,
+        "close": 178.22999572753906,
+        "volume": 344995
+      }
     },
     "EQUITASBNK": {
       "avg_volume": 1353767,
@@ -648,7 +914,13 @@
           "gap_size_pct": 1.78
         }
       ],
-      "latest_candle": null
+      "latest_candle": {
+        "date": "2026-09-28",
+        "high": 66.80000305175781,
+        "low": 64.62999725341797,
+        "close": 66.0199966430664,
+        "volume": 2363075
+      }
     },
     "ESABINDIA": {
       "avg_volume": 4453,
@@ -661,7 +933,13 @@
           "gap_size_pct": 2.13
         }
       ],
-      "latest_candle": null
+      "latest_candle": {
+        "date": "2026-09-28",
+        "high": 5556.0,
+        "low": 5480.5,
+        "close": 5518.5,
+        "volume": 1978
+      }
     },
     "EXICOM": {
       "avg_volume": 1824001,
@@ -681,7 +959,13 @@
           "gap_size_pct": 3.72
         }
       ],
-      "latest_candle": null
+      "latest_candle": {
+        "date": "2026-09-28",
+        "high": 162.8800048828125,
+        "low": 155.0500030517578,
+        "close": 156.07000732421875,
+        "volume": 629931
+      }
     },
     "FAZE3Q": {
       "avg_volume": 17860,
@@ -701,7 +985,13 @@
           "gap_size_pct": 1.48
         }
       ],
-      "latest_candle": null
+      "latest_candle": {
+        "date": "2026-09-28",
+        "high": 441.79998779296875,
+        "low": 420.0,
+        "close": 427.25,
+        "volume": 11495
+      }
     },
     "FIEMIND": {
       "avg_volume": 58010,
@@ -714,7 +1004,13 @@
           "gap_size_pct": 3.52
         }
       ],
-      "latest_candle": null
+      "latest_candle": {
+        "date": "2026-09-28",
+        "high": 1976.800048828125,
+        "low": 1920.0,
+        "close": 1926.0,
+        "volume": 39451
+      }
     },
     "FINOPB": {
       "avg_volume": 221825,
@@ -727,7 +1023,13 @@
           "gap_size_pct": 1.25
         }
       ],
-      "latest_candle": null
+      "latest_candle": {
+        "date": "2026-09-28",
+        "high": 128.8800048828125,
+        "low": 126.19999694824219,
+        "close": 127.2300033569336,
+        "volume": 121176
+      }
     },
     "FISCHER": {
       "avg_volume": 1009143,
@@ -747,7 +1049,13 @@
           "gap_size_pct": 10.01
         }
       ],
-      "latest_candle": null
+      "latest_candle": {
+        "date": "2026-09-28",
+        "high": 35.18000030517578,
+        "low": 33.029998779296875,
+        "close": 34.08000183105469,
+        "volume": 782768
+      }
     },
     "FMGOETZE": {
       "avg_volume": 1913310,
@@ -760,7 +1068,13 @@
           "gap_size_pct": 1.12
         }
       ],
-      "latest_candle": null
+      "latest_candle": {
+        "date": "2026-09-28",
+        "high": 481.20001220703125,
+        "low": 454.79998779296875,
+        "close": 458.6499938964844,
+        "volume": 164346
+      }
     },
     "GOPAL": {
       "avg_volume": 120097,
@@ -773,7 +1087,13 @@
           "gap_size_pct": 2.69
         }
       ],
-      "latest_candle": null
+      "latest_candle": {
+        "date": "2026-09-28",
+        "high": 261.0,
+        "low": 251.8000030517578,
+        "close": 254.8000030517578,
+        "volume": 95815
+      }
     },
     "GVPIL": {
       "avg_volume": 175035,
@@ -786,7 +1106,13 @@
           "gap_size_pct": 3.2
         }
       ],
-      "latest_candle": null
+      "latest_candle": {
+        "date": "2026-09-28",
+        "high": 674.9500122070312,
+        "low": 647.9500122070312,
+        "close": 651.4000244140625,
+        "volume": 113456
+      }
     },
     "HAVELLS": {
       "avg_volume": 847706,
@@ -799,7 +1125,13 @@
           "gap_size_pct": 1.02
         }
       ],
-      "latest_candle": null
+      "latest_candle": {
+        "date": "2026-09-28",
+        "high": 1099.9000244140625,
+        "low": 1074.5,
+        "close": 1085.0,
+        "volume": 735134
+      }
     },
     "HBLENGINE": {
       "avg_volume": 2346350,
@@ -812,7 +1144,13 @@
           "gap_size_pct": 1.71
         }
       ],
-      "latest_candle": null
+      "latest_candle": {
+        "date": "2026-09-28",
+        "high": 829.9000244140625,
+        "low": 782.2000122070312,
+        "close": 785.6500244140625,
+        "volume": 4227778
+      }
     },
     "HCC": {
       "avg_volume": 22959865,
@@ -825,7 +1163,13 @@
           "gap_size_pct": 2.36
         }
       ],
-      "latest_candle": null
+      "latest_candle": {
+        "date": "2026-09-28",
+        "high": 21.260000228881836,
+        "low": 20.5,
+        "close": 20.549999237060547,
+        "volume": 10721389
+      }
     },
     "HCLTECH": {
       "avg_volume": 2432327,
@@ -845,7 +1189,13 @@
           "gap_size_pct": 2.61
         }
       ],
-      "latest_candle": null
+      "latest_candle": {
+        "date": "2026-09-28",
+        "high": 1267.300048828125,
+        "low": 1241.800048828125,
+        "close": 1252.5999755859375,
+        "volume": 2271908
+      }
     },
     "HDFCBANK": {
       "avg_volume": 30529135,
@@ -858,7 +1208,13 @@
           "gap_size_pct": 2.29
         }
       ],
-      "latest_candle": null
+      "latest_candle": {
+        "date": "2026-09-28",
+        "high": 733.0,
+        "low": 718.0999755859375,
+        "close": 719.0499877929688,
+        "volume": 21673231
+      }
     },
     "HDFCLIFE": {
       "avg_volume": 4363172,
@@ -871,7 +1227,13 @@
           "gap_size_pct": 3.78
         }
       ],
-      "latest_candle": null
+      "latest_candle": {
+        "date": "2026-09-28",
+        "high": 534.5,
+        "low": 525.9000244140625,
+        "close": 531.5999755859375,
+        "volume": 2306158
+      }
     },
     "HEMIPROP": {
       "avg_volume": 234479,
@@ -884,7 +1246,13 @@
           "gap_size_pct": 8.38
         }
       ],
-      "latest_candle": null
+      "latest_candle": {
+        "date": "2026-09-28",
+        "high": 120.48999786376953,
+        "low": 115.55000305175781,
+        "close": 115.94999694824219,
+        "volume": 370415
+      }
     },
     "HERITGFOOD": {
       "avg_volume": 916630,
@@ -904,7 +1272,13 @@
           "gap_size_pct": 3.01
         }
       ],
-      "latest_candle": null
+      "latest_candle": {
+        "date": "2026-09-28",
+        "high": 409.3500061035156,
+        "low": 397.04998779296875,
+        "close": 402.04998779296875,
+        "volume": 233359
+      }
     },
     "HEXT": {
       "avg_volume": 315229,
@@ -917,7 +1291,13 @@
           "gap_size_pct": 2.0
         }
       ],
-      "latest_candle": null
+      "latest_candle": {
+        "date": "2026-09-28",
+        "high": 500.8999938964844,
+        "low": 486.54998779296875,
+        "close": 489.25,
+        "volume": 168825
+      }
     },
     "HIKAL": {
       "avg_volume": 3749952,
@@ -930,7 +1310,13 @@
           "gap_size_pct": 1.08
         }
       ],
-      "latest_candle": null
+      "latest_candle": {
+        "date": "2026-09-28",
+        "high": 219.86000061035156,
+        "low": 207.63999938964844,
+        "close": 208.8000030517578,
+        "volume": 610349
+      }
     },
     "HLEGLAS": {
       "avg_volume": 472042,
@@ -943,7 +1329,13 @@
           "gap_size_pct": 4.96
         }
       ],
-      "latest_candle": null
+      "latest_candle": {
+        "date": "2026-09-28",
+        "high": 437.5,
+        "low": 419.04998779296875,
+        "close": 419.3500061035156,
+        "volume": 171932
+      }
     },
     "HONAUT": {
       "avg_volume": 3529,
@@ -956,7 +1348,13 @@
           "gap_size_pct": 1.65
         }
       ],
-      "latest_candle": null
+      "latest_candle": {
+        "date": "2026-09-28",
+        "high": 34040.0,
+        "low": 33255.0,
+        "close": 33855.0,
+        "volume": 2223
+      }
     },
     "HPL": {
       "avg_volume": 84127,
@@ -976,7 +1374,13 @@
           "gap_size_pct": 1.52
         }
       ],
-      "latest_candle": null
+      "latest_candle": {
+        "date": "2026-09-28",
+        "high": 279.54998779296875,
+        "low": 269.25,
+        "close": 270.95001220703125,
+        "volume": 118018
+      }
     },
     "ICICIPRULI": {
       "avg_volume": 1685041,
@@ -989,7 +1393,13 @@
           "gap_size_pct": 1.8
         }
       ],
-      "latest_candle": null
+      "latest_candle": {
+        "date": "2026-09-28",
+        "high": 464.20001220703125,
+        "low": 450.6499938964844,
+        "close": 458.70001220703125,
+        "volume": 1352190
+      }
     },
     "IDBI": {
       "avg_volume": 14976388,
@@ -1002,7 +1412,13 @@
           "gap_size_pct": 2.23
         }
       ],
-      "latest_candle": null
+      "latest_candle": {
+        "date": "2026-09-28",
+        "high": 85.4000015258789,
+        "low": 82.25,
+        "close": 84.38999938964844,
+        "volume": 14693209
+      }
     },
     "IEX": {
       "avg_volume": 3417250,
@@ -1015,7 +1431,13 @@
           "gap_size_pct": 9.38
         }
       ],
-      "latest_candle": null
+      "latest_candle": {
+        "date": "2026-09-28",
+        "high": 112.87999725341797,
+        "low": 110.94000244140625,
+        "close": 111.3499984741211,
+        "volume": 2048680
+      }
     },
     "IGIL": {
       "avg_volume": 527753,
@@ -1028,7 +1450,13 @@
           "gap_size_pct": 1.42
         }
       ],
-      "latest_candle": null
+      "latest_candle": {
+        "date": "2026-09-28",
+        "high": 329.95001220703125,
+        "low": 322.1000061035156,
+        "close": 323.1499938964844,
+        "volume": 352453
+      }
     },
     "IGL": {
       "avg_volume": 1804666,
@@ -1041,7 +1469,13 @@
           "gap_size_pct": 3.08
         }
       ],
-      "latest_candle": null
+      "latest_candle": {
+        "date": "2026-09-28",
+        "high": 145.10000610351562,
+        "low": 143.0,
+        "close": 143.44000244140625,
+        "volume": 1200642
+      }
     },
     "IMAGICAA": {
       "avg_volume": 1636217,
@@ -1054,7 +1488,13 @@
           "gap_size_pct": 1.1
         }
       ],
-      "latest_candle": null
+      "latest_candle": {
+        "date": "2026-09-28",
+        "high": 52.31999969482422,
+        "low": 51.099998474121094,
+        "close": 51.290000915527344,
+        "volume": 350818
+      }
     },
     "INA": {
       "avg_volume": 576646,
@@ -1067,7 +1507,13 @@
           "gap_size_pct": 1.42
         }
       ],
-      "latest_candle": null
+      "latest_candle": {
+        "date": "2026-09-28",
+        "high": 91.98999786376953,
+        "low": 88.55000305175781,
+        "close": 89.08000183105469,
+        "volume": 276587
+      }
     },
     "INDIAMART": {
       "avg_volume": 114090,
@@ -1080,7 +1526,13 @@
           "gap_size_pct": 3.03
         }
       ],
-      "latest_candle": null
+      "latest_candle": {
+        "date": "2026-09-28",
+        "high": 1646.0,
+        "low": 1620.0,
+        "close": 1637.0,
+        "volume": 30046
+      }
     },
     "INDIASHLTR": {
       "avg_volume": 84730,
@@ -1093,7 +1545,13 @@
           "gap_size_pct": 1.39
         }
       ],
-      "latest_candle": null
+      "latest_candle": {
+        "date": "2026-09-28",
+        "high": 655.0,
+        "low": 635.0,
+        "close": 647.2999877929688,
+        "volume": 92868
+      }
     },
     "INDUSINDBK": {
       "avg_volume": 2032939,
@@ -1120,7 +1578,13 @@
           "gap_size_pct": 2.41
         }
       ],
-      "latest_candle": null
+      "latest_candle": {
+        "date": "2026-09-28",
+        "high": 913.0,
+        "low": 889.4000244140625,
+        "close": 909.7000122070312,
+        "volume": 1794819
+      }
     },
     "INFY": {
       "avg_volume": 8543514,
@@ -1147,7 +1611,13 @@
           "gap_size_pct": 1.38
         }
       ],
-      "latest_candle": null
+      "latest_candle": {
+        "date": "2026-09-28",
+        "high": 1009.5,
+        "low": 986.5999755859375,
+        "close": 1003.2000122070312,
+        "volume": 8565153
+      }
     },
     "IOC": {
       "avg_volume": 7441261,
@@ -1160,7 +1630,13 @@
           "gap_size_pct": 1.81
         }
       ],
-      "latest_candle": null
+      "latest_candle": {
+        "date": "2026-09-28",
+        "high": 135.5800018310547,
+        "low": 133.0399932861328,
+        "close": 133.32000732421875,
+        "volume": 5532305
+      }
     },
     "IONEXCHANG": {
       "avg_volume": 633773,
@@ -1173,7 +1649,13 @@
           "gap_size_pct": 1.57
         }
       ],
-      "latest_candle": null
+      "latest_candle": {
+        "date": "2026-09-28",
+        "high": 425.8999938964844,
+        "low": 411.75,
+        "close": 422.8999938964844,
+        "volume": 239259
+      }
     },
     "IREDA": {
       "avg_volume": 3216451,
@@ -1186,7 +1668,13 @@
           "gap_size_pct": 2.07
         }
       ],
-      "latest_candle": null
+      "latest_candle": {
+        "date": "2026-09-28",
+        "high": 117.38999938964844,
+        "low": 111.80999755859375,
+        "close": 114.81999969482422,
+        "volume": 17077830
+      }
     },
     "IRFC": {
       "avg_volume": 7021419,
@@ -1199,7 +1687,13 @@
           "gap_size_pct": 3.51
         }
       ],
-      "latest_candle": null
+      "latest_candle": {
+        "date": "2026-09-28",
+        "high": 79.94999694824219,
+        "low": 78.36000061035156,
+        "close": 78.55000305175781,
+        "volume": 8553485
+      }
     },
     "IXIGO": {
       "avg_volume": 1397476,
@@ -1212,7 +1706,13 @@
           "gap_size_pct": 9.65
         }
       ],
-      "latest_candle": null
+      "latest_candle": {
+        "date": "2026-09-28",
+        "high": 158.0,
+        "low": 154.0500030517578,
+        "close": 155.0800018310547,
+        "volume": 770370
+      }
     },
     "IZMO": {
       "avg_volume": 168642,
@@ -1225,7 +1725,13 @@
           "gap_size_pct": 5.0
         }
       ],
-      "latest_candle": null
+      "latest_candle": {
+        "date": "2026-09-28",
+        "high": 905.0,
+        "low": 871.0,
+        "close": 873.5499877929688,
+        "volume": 60587
+      }
     },
     "JAICORPLTD": {
       "avg_volume": 263137,
@@ -1245,7 +1751,13 @@
           "gap_size_pct": 3.93
         }
       ],
-      "latest_candle": null
+      "latest_candle": {
+        "date": "2026-09-28",
+        "high": 94.88999938964844,
+        "low": 91.80000305175781,
+        "close": 92.18000030517578,
+        "volume": 214066
+      }
     },
     "JAYBARMARU": {
       "avg_volume": 251533,
@@ -1279,7 +1791,13 @@
           "gap_size_pct": 1.22
         }
       ],
-      "latest_candle": null
+      "latest_candle": {
+        "date": "2026-09-28",
+        "high": 123.80000305175781,
+        "low": 119.0199966430664,
+        "close": 122.5199966430664,
+        "volume": 414740
+      }
     },
     "JAYNECOIND": {
       "avg_volume": 5247133,
@@ -1292,7 +1810,13 @@
           "gap_size_pct": 3.92
         }
       ],
-      "latest_candle": null
+      "latest_candle": {
+        "date": "2026-09-28",
+        "high": 89.12999725341797,
+        "low": 86.80000305175781,
+        "close": 87.9800033569336,
+        "volume": 2238159
+      }
     },
     "JINDALPOLY": {
       "avg_volume": 63189,
@@ -1305,7 +1829,13 @@
           "gap_size_pct": 5.0
         }
       ],
-      "latest_candle": null
+      "latest_candle": {
+        "date": "2026-09-28",
+        "high": 704.0,
+        "low": 675.0,
+        "close": 679.6500244140625,
+        "volume": 10276
+      }
     },
     "JKLAKSHMI": {
       "avg_volume": 124737,
@@ -1318,7 +1848,13 @@
           "gap_size_pct": 1.08
         }
       ],
-      "latest_candle": null
+      "latest_candle": {
+        "date": "2026-09-28",
+        "high": 510.45001220703125,
+        "low": 491.25,
+        "close": 494.79998779296875,
+        "volume": 119313
+      }
     },
     "JKTYRE": {
       "avg_volume": 394093,
@@ -1331,7 +1867,13 @@
           "gap_size_pct": 1.75
         }
       ],
-      "latest_candle": null
+      "latest_candle": {
+        "date": "2026-09-28",
+        "high": 343.95001220703125,
+        "low": 337.1000061035156,
+        "close": 337.79998779296875,
+        "volume": 385038
+      }
     },
     "JSLL": {
       "avg_volume": 439245,
@@ -1344,7 +1886,13 @@
           "gap_size_pct": 5.13
         }
       ],
-      "latest_candle": null
+      "latest_candle": {
+        "date": "2026-09-28",
+        "high": 510.8999938964844,
+        "low": 497.0,
+        "close": 501.8999938964844,
+        "volume": 268010
+      }
     },
     "JSWENERGY": {
       "avg_volume": 1947731,
@@ -1357,7 +1905,13 @@
           "gap_size_pct": 1.16
         }
       ],
-      "latest_candle": null
+      "latest_candle": {
+        "date": "2026-09-28",
+        "high": 506.3999938964844,
+        "low": 493.04998779296875,
+        "close": 495.0,
+        "volume": 1582953
+      }
     },
     "JYOTHYLAB": {
       "avg_volume": 972808,
@@ -1370,7 +1924,13 @@
           "gap_size_pct": 1.65
         }
       ],
-      "latest_candle": null
+      "latest_candle": {
+        "date": "2026-09-28",
+        "high": 191.9600067138672,
+        "low": 188.30999755859375,
+        "close": 189.66000366210938,
+        "volume": 330391
+      }
     },
     "KALAMANDIR": {
       "avg_volume": 376715,
@@ -1383,7 +1943,13 @@
           "gap_size_pct": 3.56
         }
       ],
-      "latest_candle": null
+      "latest_candle": {
+        "date": "2026-09-28",
+        "high": 79.63999938964844,
+        "low": 76.19999694824219,
+        "close": 78.13999938964844,
+        "volume": 691738
+      }
     },
     "KEC": {
       "avg_volume": 1063257,
@@ -1396,7 +1962,13 @@
           "gap_size_pct": 1.33
         }
       ],
-      "latest_candle": null
+      "latest_candle": {
+        "date": "2026-09-28",
+        "high": 396.1000061035156,
+        "low": 390.0,
+        "close": 390.54998779296875,
+        "volume": 320295
+      }
     },
     "KEI": {
       "avg_volume": 648832,
@@ -1409,7 +1981,13 @@
           "gap_size_pct": 2.77
         }
       ],
-      "latest_candle": null
+      "latest_candle": {
+        "date": "2026-09-28",
+        "high": 4668.5,
+        "low": 4510.5,
+        "close": 4516.0,
+        "volume": 219531
+      }
     },
     "KIOCL": {
       "avg_volume": 76589,
@@ -1422,7 +2000,13 @@
           "gap_size_pct": 1.69
         }
       ],
-      "latest_candle": null
+      "latest_candle": {
+        "date": "2026-09-28",
+        "high": 342.5,
+        "low": 328.3999938964844,
+        "close": 331.0,
+        "volume": 74725
+      }
     },
     "KITEX": {
       "avg_volume": 338086,
@@ -1435,7 +2019,13 @@
           "gap_size_pct": 1.47
         }
       ],
-      "latest_candle": null
+      "latest_candle": {
+        "date": "2026-09-28",
+        "high": 118.58000183105469,
+        "low": 115.0,
+        "close": 116.12999725341797,
+        "volume": 316603
+      }
     },
     "KPITTECH": {
       "avg_volume": 1672267,
@@ -1448,7 +2038,13 @@
           "gap_size_pct": 1.3
         }
       ],
-      "latest_candle": null
+      "latest_candle": {
+        "date": "2026-09-28",
+        "high": 519.0,
+        "low": 506.0,
+        "close": 509.0,
+        "volume": 896295
+      }
     },
     "LINCOLN": {
       "avg_volume": 34930,
@@ -1461,7 +2057,13 @@
           "gap_size_pct": 7.95
         }
       ],
-      "latest_candle": null
+      "latest_candle": {
+        "date": "2026-09-28",
+        "high": 591.0999755859375,
+        "low": 581.4000244140625,
+        "close": 581.8499755859375,
+        "volume": 20643
+      }
     },
     "LODHA": {
       "avg_volume": 1599569,
@@ -1474,7 +2076,13 @@
           "gap_size_pct": 2.09
         }
       ],
-      "latest_candle": null
+      "latest_candle": {
+        "date": "2026-09-28",
+        "high": 1165.0,
+        "low": 1115.0999755859375,
+        "close": 1117.0999755859375,
+        "volume": 1156297
+      }
     },
     "LTF": {
       "avg_volume": 5269622,
@@ -1487,7 +2095,13 @@
           "gap_size_pct": 5.57
         }
       ],
-      "latest_candle": null
+      "latest_candle": {
+        "date": "2026-09-28",
+        "high": 283.45001220703125,
+        "low": 277.79998779296875,
+        "close": 280.8500061035156,
+        "volume": 5647392
+      }
     },
     "LTM": {
       "avg_volume": 415001,
@@ -1500,7 +2114,13 @@
           "gap_size_pct": 3.59
         }
       ],
-      "latest_candle": null
+      "latest_candle": {
+        "date": "2026-09-28",
+        "high": 4132.39990234375,
+        "low": 4018.199951171875,
+        "close": 4091.39990234375,
+        "volume": 408124
+      }
     },
     "LTTS": {
       "avg_volume": 79157,
@@ -1513,7 +2133,13 @@
           "gap_size_pct": 1.79
         }
       ],
-      "latest_candle": null
+      "latest_candle": {
+        "date": "2026-09-28",
+        "high": 3280.0,
+        "low": 3157.0,
+        "close": 3211.60009765625,
+        "volume": 35793
+      }
     },
     "M&MFIN": {
       "avg_volume": 1719127,
@@ -1526,7 +2152,13 @@
           "gap_size_pct": 1.29
         }
       ],
-      "latest_candle": null
+      "latest_candle": {
+        "date": "2026-09-28",
+        "high": 336.5,
+        "low": 326.20001220703125,
+        "close": 331.75,
+        "volume": 763309
+      }
     },
     "MAZDOCK": {
       "avg_volume": 567038,
@@ -1539,7 +2171,13 @@
           "gap_size_pct": 2.36
         }
       ],
-      "latest_candle": null
+      "latest_candle": {
+        "date": "2026-09-28",
+        "high": 2199.39990234375,
+        "low": 2131.0,
+        "close": 2138.0,
+        "volume": 649697
+      }
     },
     "MEDIASSIST": {
       "avg_volume": 237444,
@@ -1552,7 +2190,13 @@
           "gap_size_pct": 3.76
         }
       ],
-      "latest_candle": null
+      "latest_candle": {
+        "date": "2026-09-28",
+        "high": 318.6000061035156,
+        "low": 307.0,
+        "close": 307.75,
+        "volume": 231239
+      }
     },
     "MEDPLUS": {
       "avg_volume": 94311,
@@ -1565,7 +2209,13 @@
           "gap_size_pct": 4.67
         }
       ],
-      "latest_candle": null
+      "latest_candle": {
+        "date": "2026-09-28",
+        "high": 661.5,
+        "low": 647.0,
+        "close": 653.0,
+        "volume": 113817
+      }
     },
     "MFSL": {
       "avg_volume": 1059883,
@@ -1578,7 +2228,13 @@
           "gap_size_pct": 7.64
         }
       ],
-      "latest_candle": null
+      "latest_candle": {
+        "date": "2026-09-28",
+        "high": 1460.9000244140625,
+        "low": 1432.0999755859375,
+        "close": 1444.0,
+        "volume": 455541
+      }
     },
     "MGL": {
       "avg_volume": 148031,
@@ -1591,7 +2247,13 @@
           "gap_size_pct": 3.65
         }
       ],
-      "latest_candle": null
+      "latest_candle": {
+        "date": "2026-09-28",
+        "high": 1071.9000244140625,
+        "low": 1041.0,
+        "close": 1048.800048828125,
+        "volume": 135646
+      }
     },
     "MOIL": {
       "avg_volume": 685277,
@@ -1604,7 +2266,13 @@
           "gap_size_pct": 1.03
         }
       ],
-      "latest_candle": null
+      "latest_candle": {
+        "date": "2026-09-28",
+        "high": 245.10000610351562,
+        "low": 238.0,
+        "close": 242.0500030517578,
+        "volume": 515251
+      }
     },
     "MPHASIS": {
       "avg_volume": 435003,
@@ -1617,7 +2285,13 @@
           "gap_size_pct": 1.85
         }
       ],
-      "latest_candle": null
+      "latest_candle": {
+        "date": "2026-09-28",
+        "high": 2245.60009765625,
+        "low": 2207.5,
+        "close": 2237.5,
+        "volume": 310054
+      }
     },
     "NATIONALUM": {
       "avg_volume": 4641714,
@@ -1630,7 +2304,13 @@
           "gap_size_pct": 1.63
         }
       ],
-      "latest_candle": null
+      "latest_candle": {
+        "date": "2026-09-28",
+        "high": 354.75,
+        "low": 344.3500061035156,
+        "close": 349.0,
+        "volume": 7126881
+      }
     },
     "NAUKRI": {
       "avg_volume": 1392105,
@@ -1643,7 +2323,13 @@
           "gap_size_pct": 2.59
         }
       ],
-      "latest_candle": null
+      "latest_candle": {
+        "date": "2026-09-28",
+        "high": 1263.0,
+        "low": 1234.4000244140625,
+        "close": 1253.9000244140625,
+        "volume": 1070414
+      }
     },
     "NEPHROPLUS": {
       "avg_volume": 668557,
@@ -1656,7 +2342,13 @@
           "gap_size_pct": 2.92
         }
       ],
-      "latest_candle": null
+      "latest_candle": {
+        "date": "2026-09-28",
+        "high": 696.6500244140625,
+        "low": 667.25,
+        "close": 674.0,
+        "volume": 306071
+      }
     },
     "NIVABUPA": {
       "avg_volume": 685341,
@@ -1669,7 +2361,13 @@
           "gap_size_pct": 1.54
         }
       ],
-      "latest_candle": null
+      "latest_candle": {
+        "date": "2026-09-28",
+        "high": 77.56999969482422,
+        "low": 74.72000122070312,
+        "close": 75.7300033569336,
+        "volume": 863602
+      }
     },
     "NLCINDIA": {
       "avg_volume": 1527626,
@@ -1682,7 +2380,13 @@
           "gap_size_pct": 3.22
         }
       ],
-      "latest_candle": null
+      "latest_candle": {
+        "date": "2026-09-28",
+        "high": 261.70001220703125,
+        "low": 254.39999389648438,
+        "close": 256.70001220703125,
+        "volume": 672933
+      }
     },
     "NOCIL": {
       "avg_volume": 2156205,
@@ -1695,7 +2399,13 @@
           "gap_size_pct": 3.44
         }
       ],
-      "latest_candle": null
+      "latest_candle": {
+        "date": "2026-09-28",
+        "high": 188.0500030517578,
+        "low": 174.0,
+        "close": 175.1699981689453,
+        "volume": 1512312
+      }
     },
     "NOVARTIND": {
       "avg_volume": 247128,
@@ -1708,7 +2418,13 @@
           "gap_size_pct": 1.3
         }
       ],
-      "latest_candle": null
+      "latest_candle": {
+        "date": "2026-09-28",
+        "high": 2035.0,
+        "low": 1922.0,
+        "close": 1935.0,
+        "volume": 38314
+      }
     },
     "NPST": {
       "avg_volume": 224893,
@@ -1721,7 +2437,13 @@
           "gap_size_pct": 3.0
         }
       ],
-      "latest_candle": null
+      "latest_candle": {
+        "date": "2026-09-28",
+        "high": 1813.0,
+        "low": 1625.0999755859375,
+        "close": 1635.0,
+        "volume": 110140
+      }
     },
     "NSIL": {
       "avg_volume": 1730,
@@ -1741,7 +2463,13 @@
           "gap_size_pct": 1.1
         }
       ],
-      "latest_candle": null
+      "latest_candle": {
+        "date": "2026-09-28",
+        "high": 5510.0,
+        "low": 5381.0,
+        "close": 5398.5,
+        "volume": 6793
+      }
     },
     "ONIXSOLAR": {
       "avg_volume": 379042,
@@ -1761,7 +2489,13 @@
           "gap_size_pct": 4.99
         }
       ],
-      "latest_candle": null
+      "latest_candle": {
+        "date": "2026-09-28",
+        "high": 354.70001220703125,
+        "low": 323.0,
+        "close": 339.79998779296875,
+        "volume": 699216
+      }
     },
     "ORIENTCEM": {
       "avg_volume": 450622,
@@ -1781,7 +2515,13 @@
           "gap_size_pct": 5.13
         }
       ],
-      "latest_candle": null
+      "latest_candle": {
+        "date": "2026-09-28",
+        "high": 122.83999633789062,
+        "low": 119.11000061035156,
+        "close": 119.43000030517578,
+        "volume": 462487
+      }
     },
     "ORIENTTECH": {
       "avg_volume": 550495,
@@ -1801,7 +2541,13 @@
           "gap_size_pct": 1.64
         }
       ],
-      "latest_candle": null
+      "latest_candle": {
+        "date": "2026-09-28",
+        "high": 237.57000732421875,
+        "low": 233.10000610351562,
+        "close": 233.80999755859375,
+        "volume": 69680
+      }
     },
     "OSWALPUMPS": {
       "avg_volume": 509659,
@@ -1814,7 +2560,13 @@
           "gap_size_pct": 2.55
         }
       ],
-      "latest_candle": null
+      "latest_candle": {
+        "date": "2026-09-28",
+        "high": 273.6000061035156,
+        "low": 267.8500061035156,
+        "close": 268.54998779296875,
+        "volume": 256494
+      }
     },
     "PENIND": {
       "avg_volume": 530052,
@@ -1827,7 +2579,13 @@
           "gap_size_pct": 1.93
         }
       ],
-      "latest_candle": null
+      "latest_candle": {
+        "date": "2026-09-28",
+        "high": 190.0,
+        "low": 181.5,
+        "close": 182.1699981689453,
+        "volume": 1179162
+      }
     },
     "PERSISTENT": {
       "avg_volume": 485995,
@@ -1840,7 +2598,13 @@
           "gap_size_pct": 2.91
         }
       ],
-      "latest_candle": null
+      "latest_candle": {
+        "date": "2026-09-28",
+        "high": 5377.5,
+        "low": 5285.0,
+        "close": 5328.5,
+        "volume": 335524
+      }
     },
     "PICCADIL": {
       "avg_volume": 164019,
@@ -1853,7 +2617,13 @@
           "gap_size_pct": 3.97
         }
       ],
-      "latest_candle": null
+      "latest_candle": {
+        "date": "2026-09-28",
+        "high": 611.2000122070312,
+        "low": 598.7000122070312,
+        "close": 600.5,
+        "volume": 74499
+      }
     },
     "PIIND": {
       "avg_volume": 270217,
@@ -1873,7 +2643,13 @@
           "gap_size_pct": 4.65
         }
       ],
-      "latest_candle": null
+      "latest_candle": {
+        "date": "2026-09-28",
+        "high": 2398.39990234375,
+        "low": 2318.5,
+        "close": 2349.0,
+        "volume": 113048
+      }
     },
     "PILANIINVS": {
       "avg_volume": 2345,
@@ -1886,7 +2662,13 @@
           "gap_size_pct": 5.0
         }
       ],
-      "latest_candle": null
+      "latest_candle": {
+        "date": "2026-09-28",
+        "high": 4052.0,
+        "low": 3950.0,
+        "close": 3997.5,
+        "volume": 1441
+      }
     },
     "PNCINFRA": {
       "avg_volume": 2102597,
@@ -1906,7 +2688,13 @@
           "gap_size_pct": 5.93
         }
       ],
-      "latest_candle": null
+      "latest_candle": {
+        "date": "2026-09-28",
+        "high": 138.39999389648438,
+        "low": 130.10000610351562,
+        "close": 131.25999450683594,
+        "volume": 1951100
+      }
     },
     "POKARNA": {
       "avg_volume": 138240,
@@ -1919,7 +2707,13 @@
           "gap_size_pct": 1.69
         }
       ],
-      "latest_candle": null
+      "latest_candle": {
+        "date": "2026-09-28",
+        "high": 734.4500122070312,
+        "low": 714.0999755859375,
+        "close": 718.1500244140625,
+        "volume": 38599
+      }
     },
     "POLICYBZR": {
       "avg_volume": 2592286,
@@ -1932,7 +2726,13 @@
           "gap_size_pct": 5.32
         }
       ],
-      "latest_candle": null
+      "latest_candle": {
+        "date": "2026-09-28",
+        "high": 1213.5,
+        "low": 1136.0999755859375,
+        "close": 1151.300048828125,
+        "volume": 10829888
+      }
     },
     "POLYCAB": {
       "avg_volume": 382767,
@@ -1945,7 +2745,13 @@
           "gap_size_pct": 3.27
         }
       ],
-      "latest_candle": null
+      "latest_candle": {
+        "date": "2026-09-28",
+        "high": 8400.0,
+        "low": 8180.0,
+        "close": 8191.0,
+        "volume": 274806
+      }
     },
     "PRAJIND": {
       "avg_volume": 425832,
@@ -1958,7 +2764,13 @@
           "gap_size_pct": 2.33
         }
       ],
-      "latest_candle": null
+      "latest_candle": {
+        "date": "2026-09-28",
+        "high": 315.6499938964844,
+        "low": 310.3999938964844,
+        "close": 311.95001220703125,
+        "volume": 307471
+      }
     },
     "PROTEAN": {
       "avg_volume": 1554333,
@@ -1978,7 +2790,13 @@
           "gap_size_pct": 4.49
         }
       ],
-      "latest_candle": null
+      "latest_candle": {
+        "date": "2026-09-28",
+        "high": 719.0,
+        "low": 675.0,
+        "close": 691.5,
+        "volume": 2688641
+      }
     },
     "PRUDENT": {
       "avg_volume": 30784,
@@ -1991,7 +2809,13 @@
           "gap_size_pct": 1.37
         }
       ],
-      "latest_candle": null
+      "latest_candle": {
+        "date": "2026-09-28",
+        "high": 3186.89990234375,
+        "low": 3038.800048828125,
+        "close": 3171.300048828125,
+        "volume": 27084
+      }
     },
     "PSB": {
       "avg_volume": 975660,
@@ -2004,7 +2828,13 @@
           "gap_size_pct": 13.09
         }
       ],
-      "latest_candle": null
+      "latest_candle": {
+        "date": "2026-09-28",
+        "high": 21.81999969482422,
+        "low": 21.260000228881836,
+        "close": 21.309999465942383,
+        "volume": 805829
+      }
     },
     "QUADFUTURE": {
       "avg_volume": 1328137,
@@ -2017,7 +2847,13 @@
           "gap_size_pct": 1.32
         }
       ],
-      "latest_candle": null
+      "latest_candle": {
+        "date": "2026-09-28",
+        "high": 564.9000244140625,
+        "low": 527.5999755859375,
+        "close": 531.5,
+        "volume": 1321338
+      }
     },
     "RAMCOSYS": {
       "avg_volume": 82301,
@@ -2037,7 +2873,13 @@
           "gap_size_pct": 2.06
         }
       ],
-      "latest_candle": null
+      "latest_candle": {
+        "date": "2026-09-28",
+        "high": 582.4500122070312,
+        "low": 560.0,
+        "close": 563.7999877929688,
+        "volume": 33610
+      }
     },
     "RELAXO": {
       "avg_volume": 271904,
@@ -2050,7 +2892,13 @@
           "gap_size_pct": 1.2
         }
       ],
-      "latest_candle": null
+      "latest_candle": {
+        "date": "2026-09-28",
+        "high": 299.0,
+        "low": 290.0,
+        "close": 290.75,
+        "volume": 113002
+      }
     },
     "RHETAN": {
       "avg_volume": 7544464,
@@ -2105,7 +2953,13 @@
           "gap_size_pct": 4.94
         }
       ],
-      "latest_candle": null
+      "latest_candle": {
+        "date": "2026-09-28",
+        "high": 15.920000076293945,
+        "low": 14.420000076293945,
+        "close": 15.90999984741211,
+        "volume": 66646748
+      }
     },
     "RPOWER": {
       "avg_volume": 17427723,
@@ -2125,7 +2979,13 @@
           "gap_size_pct": 1.6
         }
       ],
-      "latest_candle": null
+      "latest_candle": {
+        "date": "2026-09-28",
+        "high": 20.559999465942383,
+        "low": 19.799999237060547,
+        "close": 19.959999084472656,
+        "volume": 15300768
+      }
     },
     "RVNL": {
       "avg_volume": 4470314,
@@ -2138,7 +2998,13 @@
           "gap_size_pct": 1.88
         }
       ],
-      "latest_candle": null
+      "latest_candle": {
+        "date": "2026-09-28",
+        "high": 206.3800048828125,
+        "low": 202.0,
+        "close": 202.75,
+        "volume": 2548968
+      }
     },
     "SANOFI": {
       "avg_volume": 20702,
@@ -2151,7 +3017,13 @@
           "gap_size_pct": 1.42
         }
       ],
-      "latest_candle": null
+      "latest_candle": {
+        "date": "2026-09-28",
+        "high": 3149.89990234375,
+        "low": 3075.0,
+        "close": 3103.5,
+        "volume": 15019
+      }
     },
     "SDBL": {
       "avg_volume": 443830,
@@ -2164,7 +3036,13 @@
           "gap_size_pct": 1.97
         }
       ],
-      "latest_candle": null
+      "latest_candle": {
+        "date": "2026-09-28",
+        "high": 83.80000305175781,
+        "low": 78.11000061035156,
+        "close": 80.62000274658203,
+        "volume": 19487108
+      }
     },
     "SENCO": {
       "avg_volume": 639360,
@@ -2177,7 +3055,13 @@
           "gap_size_pct": 4.49
         }
       ],
-      "latest_candle": null
+      "latest_candle": {
+        "date": "2026-09-28",
+        "high": 331.1000061035156,
+        "low": 310.1499938964844,
+        "close": 318.29998779296875,
+        "volume": 2646402
+      }
     },
     "SETL": {
       "avg_volume": 1096627,
@@ -2197,7 +3081,13 @@
           "gap_size_pct": 4.99
         }
       ],
-      "latest_candle": null
+      "latest_candle": {
+        "date": "2026-09-28",
+        "high": 422.6499938964844,
+        "low": 394.0,
+        "close": 422.6499938964844,
+        "volume": 974522
+      }
     },
     "SHAKTIPUMP": {
       "avg_volume": 1082294,
@@ -2210,7 +3100,13 @@
           "gap_size_pct": 1.27
         }
       ],
-      "latest_candle": null
+      "latest_candle": {
+        "date": "2026-09-28",
+        "high": 473.79998779296875,
+        "low": 459.0,
+        "close": 465.1499938964844,
+        "volume": 399429
+      }
     },
     "SHARDAMOTR": {
       "avg_volume": 74451,
@@ -2223,7 +3119,13 @@
           "gap_size_pct": 3.13
         }
       ],
-      "latest_candle": null
+      "latest_candle": {
+        "date": "2026-09-28",
+        "high": 978.0,
+        "low": 936.0,
+        "close": 945.0999755859375,
+        "volume": 62487
+      }
     },
     "SHK": {
       "avg_volume": 382561,
@@ -2236,7 +3138,13 @@
           "gap_size_pct": 1.96
         }
       ],
-      "latest_candle": null
+      "latest_candle": {
+        "date": "2026-09-28",
+        "high": 143.32000732421875,
+        "low": 136.4199981689453,
+        "close": 137.77999877929688,
+        "volume": 147035
+      }
     },
     "SIYSIL": {
       "avg_volume": 31489,
@@ -2249,7 +3157,13 @@
           "gap_size_pct": 3.91
         }
       ],
-      "latest_candle": null
+      "latest_candle": {
+        "date": "2026-09-28",
+        "high": 540.0,
+        "low": 528.0499877929688,
+        "close": 533.3499755859375,
+        "volume": 16665
+      }
     },
     "SKFINDIA": {
       "avg_volume": 54236,
@@ -2262,7 +3176,13 @@
           "gap_size_pct": 52.5
         }
       ],
-      "latest_candle": null
+      "latest_candle": {
+        "date": "2026-09-28",
+        "high": 1554.5999755859375,
+        "low": 1498.0999755859375,
+        "close": 1511.800048828125,
+        "volume": 38728
+      }
     },
     "SUBROS": {
       "avg_volume": 34973,
@@ -2275,7 +3195,13 @@
           "gap_size_pct": 2.71
         }
       ],
-      "latest_candle": null
+      "latest_candle": {
+        "date": "2026-09-28",
+        "high": 720.0,
+        "low": 694.7999877929688,
+        "close": 700.2999877929688,
+        "volume": 37760
+      }
     },
     "SUDEEPPHRM": {
       "avg_volume": 264629,
@@ -2288,7 +3214,13 @@
           "gap_size_pct": 1.35
         }
       ],
-      "latest_candle": null
+      "latest_candle": {
+        "date": "2026-09-28",
+        "high": 1192.0,
+        "low": 1124.0999755859375,
+        "close": 1138.800048828125,
+        "volume": 146912
+      }
     },
     "SULA": {
       "avg_volume": 406478,
@@ -2308,7 +3240,13 @@
           "gap_size_pct": 1.99
         }
       ],
-      "latest_candle": null
+      "latest_candle": {
+        "date": "2026-09-28",
+        "high": 135.99000549316406,
+        "low": 133.0,
+        "close": 133.5,
+        "volume": 161626
+      }
     },
     "SWSOLAR": {
       "avg_volume": 1122347,
@@ -2321,7 +3259,13 @@
           "gap_size_pct": 1.74
         }
       ],
-      "latest_candle": null
+      "latest_candle": {
+        "date": "2026-09-28",
+        "high": 175.91000366210938,
+        "low": 169.5,
+        "close": 170.74000549316406,
+        "volume": 902042
+      }
     },
     "TANLA": {
       "avg_volume": 380959,
@@ -2334,7 +3278,13 @@
           "gap_size_pct": 1.7
         }
       ],
-      "latest_candle": null
+      "latest_candle": {
+        "date": "2026-09-28",
+        "high": 510.5,
+        "low": 489.29998779296875,
+        "close": 497.29998779296875,
+        "volume": 719752
+      }
     },
     "TCS": {
       "avg_volume": 2893579,
@@ -2347,7 +3297,13 @@
           "gap_size_pct": 2.08
         }
       ],
-      "latest_candle": null
+      "latest_candle": {
+        "date": "2026-09-28",
+        "high": 2100.0,
+        "low": 2051.0,
+        "close": 2070.699951171875,
+        "volume": 2456492
+      }
     },
     "TECHNOE": {
       "avg_volume": 144853,
@@ -2360,7 +3316,13 @@
           "gap_size_pct": 5.66
         }
       ],
-      "latest_candle": null
+      "latest_candle": {
+        "date": "2026-09-28",
+        "high": 1015.0,
+        "low": 977.9000244140625,
+        "close": 981.8499755859375,
+        "volume": 104249
+      }
     },
     "TEJASNET": {
       "avg_volume": 5783417,
@@ -2394,7 +3356,13 @@
           "gap_size_pct": 2.91
         }
       ],
-      "latest_candle": null
+      "latest_candle": {
+        "date": "2026-09-28",
+        "high": 505.29998779296875,
+        "low": 489.95001220703125,
+        "close": 491.1000061035156,
+        "volume": 1028978
+      }
     },
     "TEXINFRA": {
       "avg_volume": 378909,
@@ -2407,7 +3375,13 @@
           "gap_size_pct": 1.05
         }
       ],
-      "latest_candle": null
+      "latest_candle": {
+        "date": "2026-09-28",
+        "high": 118.0,
+        "low": 115.91000366210938,
+        "close": 116.55999755859375,
+        "volume": 55544
+      }
     },
     "THANGAMAYL": {
       "avg_volume": 99269,
@@ -2420,7 +3394,13 @@
           "gap_size_pct": 5.15
         }
       ],
-      "latest_candle": null
+      "latest_candle": {
+        "date": "2026-09-28",
+        "high": 5137.0,
+        "low": 5001.5,
+        "close": 5011.5,
+        "volume": 38858
+      }
     },
     "TIMETECHNO": {
       "avg_volume": 2409523,
@@ -2433,7 +3413,13 @@
           "gap_size_pct": 1.67
         }
       ],
-      "latest_candle": null
+      "latest_candle": {
+        "date": "2026-09-28",
+        "high": 185.39999389648438,
+        "low": 179.91000366210938,
+        "close": 183.44000244140625,
+        "volume": 3582524
+      }
     },
     "TMPV": {
       "avg_volume": 8334505,
@@ -2453,7 +3439,13 @@
           "gap_size_pct": 1.37
         }
       ],
-      "latest_candle": null
+      "latest_candle": {
+        "date": "2026-09-28",
+        "high": 291.20001220703125,
+        "low": 280.20001220703125,
+        "close": 281.75,
+        "volume": 14056274
+      }
     },
     "TORNTPOWER": {
       "avg_volume": 435428,
@@ -2466,7 +3458,13 @@
           "gap_size_pct": 1.51
         }
       ],
-      "latest_candle": null
+      "latest_candle": {
+        "date": "2026-09-28",
+        "high": 1256.0,
+        "low": 1234.5999755859375,
+        "close": 1237.199951171875,
+        "volume": 87994
+      }
     },
     "TRENT": {
       "avg_volume": 635911,
@@ -2479,7 +3477,13 @@
           "gap_size_pct": 5.82
         }
       ],
-      "latest_candle": null
+      "latest_candle": {
+        "date": "2026-09-28",
+        "high": 2663.800048828125,
+        "low": 2615.10009765625,
+        "close": 2626.0,
+        "volume": 636833
+      }
     },
     "TRITURBINE": {
       "avg_volume": 452145,
@@ -2492,7 +3496,13 @@
           "gap_size_pct": 3.1
         }
       ],
-      "latest_candle": null
+      "latest_candle": {
+        "date": "2026-09-28",
+        "high": 559.0,
+        "low": 544.1500244140625,
+        "close": 551.6500244140625,
+        "volume": 312558
+      }
     },
     "TTML": {
       "avg_volume": 4023489,
@@ -2505,7 +3515,13 @@
           "gap_size_pct": 1.02
         }
       ],
-      "latest_candle": null
+      "latest_candle": {
+        "date": "2026-09-28",
+        "high": 37.900001525878906,
+        "low": 34.369998931884766,
+        "close": 36.189998626708984,
+        "volume": 79426433
+      }
     },
     "UEL": {
       "avg_volume": 27732,
@@ -2525,7 +3541,13 @@
           "gap_size_pct": 5.0
         }
       ],
-      "latest_candle": null
+      "latest_candle": {
+        "date": "2026-09-28",
+        "high": 191.99000549316406,
+        "low": 183.0,
+        "close": 190.13999938964844,
+        "volume": 21311
+      }
     },
     "UPL": {
       "avg_volume": 2161165,
@@ -2538,7 +3560,13 @@
           "gap_size_pct": 4.01
         }
       ],
-      "latest_candle": null
+      "latest_candle": {
+        "date": "2026-09-28",
+        "high": 551.6500244140625,
+        "low": 542.8499755859375,
+        "close": 549.5,
+        "volume": 1557062
+      }
     },
     "UTIAMC": {
       "avg_volume": 121405,
@@ -2551,7 +3579,13 @@
           "gap_size_pct": 1.42
         }
       ],
-      "latest_candle": null
+      "latest_candle": {
+        "date": "2026-09-28",
+        "high": 913.9500122070312,
+        "low": 888.0,
+        "close": 893.9000244140625,
+        "volume": 61336
+      }
     },
     "UTKARSHBNK": {
       "avg_volume": 16545742,
@@ -2571,7 +3605,13 @@
           "gap_size_pct": 5.1
         }
       ],
-      "latest_candle": null
+      "latest_candle": {
+        "date": "2026-09-28",
+        "high": 13.989999771118164,
+        "low": 13.5,
+        "close": 13.59000015258789,
+        "volume": 3294635
+      }
     },
     "VAIBHAVGBL": {
       "avg_volume": 196681,
@@ -2584,7 +3624,13 @@
           "gap_size_pct": 1.32
         }
       ],
-      "latest_candle": null
+      "latest_candle": {
+        "date": "2026-09-28",
+        "high": 205.80999755859375,
+        "low": 198.35000610351562,
+        "close": 199.72000122070312,
+        "volume": 311467
+      }
     },
     "VEDL": {
       "avg_volume": 7733095,
@@ -2597,7 +3643,13 @@
           "gap_size_pct": 2.09
         }
       ],
-      "latest_candle": null
+      "latest_candle": {
+        "date": "2026-09-28",
+        "high": 264.3999938964844,
+        "low": 258.20001220703125,
+        "close": 259.0,
+        "volume": 7434942
+      }
     },
     "VESUVIUS": {
       "avg_volume": 71481,
@@ -2610,7 +3662,13 @@
           "gap_size_pct": 2.42
         }
       ],
-      "latest_candle": null
+      "latest_candle": {
+        "date": "2026-09-28",
+        "high": 396.95001220703125,
+        "low": 383.0,
+        "close": 385.3999938964844,
+        "volume": 86992
+      }
     },
     "VIKRAN": {
       "avg_volume": 2539851,
@@ -2630,7 +3688,13 @@
           "gap_size_pct": 4.72
         }
       ],
-      "latest_candle": null
+      "latest_candle": {
+        "date": "2026-09-28",
+        "high": 59.06999969482422,
+        "low": 57.0099983215332,
+        "close": 57.2599983215332,
+        "volume": 904950
+      }
     },
     "VSTIND": {
       "avg_volume": 105873,
@@ -2643,7 +3707,13 @@
           "gap_size_pct": 1.32
         }
       ],
-      "latest_candle": null
+      "latest_candle": {
+        "date": "2026-09-28",
+        "high": 206.08999633789062,
+        "low": 203.10000610351562,
+        "close": 204.0,
+        "volume": 90061
+      }
     },
     "WAAREEENER": {
       "avg_volume": 580049,
@@ -2656,7 +3726,13 @@
           "gap_size_pct": 3.96
         }
       ],
-      "latest_candle": null
+      "latest_candle": {
+        "date": "2026-09-28",
+        "high": 2509.199951171875,
+        "low": 2437.0,
+        "close": 2455.0,
+        "volume": 580800
+      }
     },
     "WAAREEINDO": {
       "avg_volume": 119514,
@@ -2704,7 +3780,13 @@
           "gap_size_pct": 3.97
         }
       ],
-      "latest_candle": null
+      "latest_candle": {
+        "date": "2026-09-28",
+        "high": 226.9499969482422,
+        "low": 219.35000610351562,
+        "close": 219.35000610351562,
+        "volume": 218215
+      }
     },
     "WEBELSOLAR": {
       "avg_volume": 1947082,
@@ -2717,7 +3799,13 @@
           "gap_size_pct": 2.19
         }
       ],
-      "latest_candle": null
+      "latest_candle": {
+        "date": "2026-09-28",
+        "high": 73.1500015258789,
+        "low": 71.51000213623047,
+        "close": 71.75,
+        "volume": 1184892
+      }
     },
     "WEL": {
       "avg_volume": 8088504,
@@ -2737,7 +3825,13 @@
           "gap_size_pct": 10.0
         }
       ],
-      "latest_candle": null
+      "latest_candle": {
+        "date": "2026-09-28",
+        "high": 76.6500015258789,
+        "low": 73.51000213623047,
+        "close": 73.72000122070312,
+        "volume": 182719
+      }
     },
     "WHIRLPOOL": {
       "avg_volume": 1208682,
@@ -2750,7 +3844,13 @@
           "gap_size_pct": 8.23
         }
       ],
-      "latest_candle": null
+      "latest_candle": {
+        "date": "2026-09-28",
+        "high": 932.0,
+        "low": 889.8499755859375,
+        "close": 917.0999755859375,
+        "volume": 4139990
+      }
     },
     "WIPRO": {
       "avg_volume": 10436626,
@@ -2777,7 +3877,13 @@
           "gap_size_pct": 1.53
         }
       ],
-      "latest_candle": null
+      "latest_candle": {
+        "date": "2026-09-28",
+        "high": 164.4499969482422,
+        "low": 160.97000122070312,
+        "close": 161.55999755859375,
+        "volume": 10292825
+      }
     },
     "ZAGGLE": {
       "avg_volume": 983027,
@@ -2790,7 +3896,13 @@
           "gap_size_pct": 1.8
         }
       ],
-      "latest_candle": null
+      "latest_candle": {
+        "date": "2026-09-28",
+        "high": 178.47999572753906,
+        "low": 175.16000366210938,
+        "close": 175.5500030517578,
+        "volume": 653312
+      }
     },
     "ZEEL": {
       "avg_volume": 22840478,
@@ -2803,7 +3915,13 @@
           "gap_size_pct": 1.66
         }
       ],
-      "latest_candle": null
+      "latest_candle": {
+        "date": "2026-09-28",
+        "high": 77.62999725341797,
+        "low": 76.06999969482422,
+        "close": 76.5,
+        "volume": 11130107
+      }
     }
   }
 }
